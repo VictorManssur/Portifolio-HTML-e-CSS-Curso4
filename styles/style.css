@@ -97,3 +97,9 @@ body{
     font-size: 1.5rem;
     font-weight: 400;
 }
+.tamanho_imagem{
+    max-width: 500px;
+}
+.imagem_tamanho2{
+    max-width: 600px;
+}
